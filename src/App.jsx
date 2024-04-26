@@ -9,7 +9,7 @@ function App() {
         </button>
         <main className="main">
           <h2>CEP: 99999-99</h2>
-          <p>Rua das Rosas</p>
+          <p>Rua das </p>
           <p>Complemento: Casa</p>
           <p>Vila das Flores</p>
           <p>Cidade - Estado</p>

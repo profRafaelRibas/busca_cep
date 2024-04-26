@@ -1,4 +1,3 @@
-import { FiSearch } from "react-icons/fi";
 function App() {
   return (
     <div className="container">
@@ -6,7 +5,7 @@ function App() {
       <div className="containerInput">
         <input type="text" placeholder="Digite o seu CEP..." />
         <button className="buttonSearch">
-          <FiSearch size={25} color="#FFF" />
+          Buscar
         </button>
         <main className="main">
           <h2>CEP: 99999-99</h2>

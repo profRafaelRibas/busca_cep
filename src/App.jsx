@@ -1,4 +1,4 @@
-function App() {
+export default function App() {
   return (
     <div className="container">
       <h1 className="titulo">Busca CEP</h1>
@@ -18,5 +18,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
